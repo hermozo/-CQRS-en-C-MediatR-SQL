@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\.NET-C#\\API1\\API1.Data\\API1.Data.csproj": {}
+  },
+  "projects": {
+    "D:\\.NET-C#\\API1\\API1.Data\\API1.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\.NET-C#\\API1\\API1.Data\\API1.Data.csproj",
+        "projectName": "API1.Data",
+        "projectPath": "D:\\.NET-C#\\API1\\API1.Data\\API1.Data.csproj",
+        "packagesPath": "C:\\Users\\micky\\.nuget\\packages\\",
+        "outputPath": "D:\\.NET-C#\\API1\\API1.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\PROGRAMFILES\\VisualStudioArchivos\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\micky\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

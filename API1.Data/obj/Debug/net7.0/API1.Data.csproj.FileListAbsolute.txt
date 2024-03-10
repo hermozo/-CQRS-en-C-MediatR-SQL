@@ -1,0 +1,14 @@
+D:\.NET-C#\API1\API1.Data\bin\Debug\net7.0\API1.Data.exe
+D:\.NET-C#\API1\API1.Data\bin\Debug\net7.0\API1.Data.deps.json
+D:\.NET-C#\API1\API1.Data\bin\Debug\net7.0\API1.Data.runtimeconfig.json
+D:\.NET-C#\API1\API1.Data\bin\Debug\net7.0\API1.Data.dll
+D:\.NET-C#\API1\API1.Data\bin\Debug\net7.0\API1.Data.pdb
+D:\.NET-C#\API1\API1.Data\obj\Debug\net7.0\API1.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET-C#\API1\API1.Data\obj\Debug\net7.0\API1.Data.AssemblyInfoInputs.cache
+D:\.NET-C#\API1\API1.Data\obj\Debug\net7.0\API1.Data.AssemblyInfo.cs
+D:\.NET-C#\API1\API1.Data\obj\Debug\net7.0\API1.Data.csproj.CoreCompileInputs.cache
+D:\.NET-C#\API1\API1.Data\obj\Debug\net7.0\API1.Data.dll
+D:\.NET-C#\API1\API1.Data\obj\Debug\net7.0\refint\API1.Data.dll
+D:\.NET-C#\API1\API1.Data\obj\Debug\net7.0\API1.Data.pdb
+D:\.NET-C#\API1\API1.Data\obj\Debug\net7.0\API1.Data.genruntimeconfig.cache
+D:\.NET-C#\API1\API1.Data\obj\Debug\net7.0\ref\API1.Data.dll
